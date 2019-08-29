@@ -1,0 +1,16 @@
+#container {
+    height: 100%;
+    width: 1500px;
+    text-align: center;
+    border: 2px solid black;
+    margin: auto;
+}
+
+#ButtonTable {
+    margin: auto;
+}
+
+#adds_container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

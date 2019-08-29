@@ -1,0 +1,21 @@
+.adds_table {
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+}
+
+.name_position {
+    width:  100px;
+    color: grey;
+}
+
+.img_add {
+    height: 150px;
+    width: 150px;
+}
+
+.title_add {
+    width: 500px;
+}

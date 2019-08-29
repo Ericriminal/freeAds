@@ -1,0 +1,17 @@
+.message_table {
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 430px;
+}
+
+.name_position {
+    width:  100px;
+    color: grey;
+}
+
+.title {
+    width: 500px;
+}
+
